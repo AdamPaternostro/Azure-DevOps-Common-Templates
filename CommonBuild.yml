@@ -1,0 +1,6 @@
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo 'Testing GitHub Linked YAML Templates'
+  displayName: 'Run a one-line script'
