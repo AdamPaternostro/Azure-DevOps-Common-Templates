@@ -3,4 +3,4 @@ jobs:
   pool:
     vmImage: 'ubuntu-latest'
   steps:
-  - script:echo 'Testing GitHub Linked YAML Templates'
+  - script: echo Testing-GitHub-Linked-YAML-Templates
